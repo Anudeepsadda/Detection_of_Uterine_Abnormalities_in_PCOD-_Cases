@@ -68,7 +68,9 @@ Evaluate using:
 SVM achieved up to 87% accuracy with optimized parameters.
 
 # 🛠️ Tech Stack
+
 **📊 Data Collection & Management**
+
 Google Forms: For creating and distributing health questionnaires
 
 CSV/Excel: For storing and managing structured data
@@ -76,6 +78,7 @@ CSV/Excel: For storing and managing structured data
 Image Repository: For collecting and categorizing ultrasound images of cysts
 
 **🧹 Data Preprocessing**
+
 Python: Core language used for scripting and data manipulation
 
 Libraries:
@@ -87,6 +90,7 @@ NumPy – Numerical computations
 Sklearn.preprocessing – Label encoding, normalization, train-test split
 
 **🤖 Machine Learning**
+
 Scikit-learn (sklearn): For building and training traditional ML models
 
 Algorithms used:
@@ -106,6 +110,7 @@ Confusion Matrix, Classification Report – Model evaluation
 ROC Curve, Accuracy Score, Loss Functions
 
 **💻 IDE / Platform**
+
 Google Colab: For coding, training, and testing ML/DL models in the cloud
 
 # Datasets
